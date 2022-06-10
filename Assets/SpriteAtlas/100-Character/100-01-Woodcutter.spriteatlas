@@ -75,6 +75,12 @@ SpriteAtlas:
   - {fileID: -235638522, guid: d5a3a533368015445af5a55598b8fe33, type: 3}
   - {fileID: 1752102301, guid: d5a3a533368015445af5a55598b8fe33, type: 3}
   - {fileID: 923427024, guid: d5a3a533368015445af5a55598b8fe33, type: 3}
+  - {fileID: 1185878887, guid: b60d02d30c507dc498b6f59df6eda9e8, type: 3}
+  - {fileID: -61517411, guid: b60d02d30c507dc498b6f59df6eda9e8, type: 3}
+  - {fileID: 1346426068, guid: b60d02d30c507dc498b6f59df6eda9e8, type: 3}
+  - {fileID: 966603761, guid: b60d02d30c507dc498b6f59df6eda9e8, type: 3}
+  - {fileID: 1305469764, guid: b60d02d30c507dc498b6f59df6eda9e8, type: 3}
+  - {fileID: 1660475210, guid: b60d02d30c507dc498b6f59df6eda9e8, type: 3}
   - {fileID: -1577735783, guid: 1b27b0d46761ef04eabf96363f850088, type: 3}
   - {fileID: -616872854, guid: 1b27b0d46761ef04eabf96363f850088, type: 3}
   - {fileID: -703146977, guid: 1b27b0d46761ef04eabf96363f850088, type: 3}
@@ -112,12 +118,6 @@ SpriteAtlas:
   - {fileID: -1636820627, guid: 5212264dca450c5499ce96df5cfc3000, type: 3}
   - {fileID: -1859395925, guid: 5212264dca450c5499ce96df5cfc3000, type: 3}
   - {fileID: 1438830735, guid: 5212264dca450c5499ce96df5cfc3000, type: 3}
-  - {fileID: 1185878887, guid: 02fa0dbf13b1d904980de7dba67d68db, type: 3}
-  - {fileID: -61517411, guid: 02fa0dbf13b1d904980de7dba67d68db, type: 3}
-  - {fileID: 1346426068, guid: 02fa0dbf13b1d904980de7dba67d68db, type: 3}
-  - {fileID: 966603761, guid: 02fa0dbf13b1d904980de7dba67d68db, type: 3}
-  - {fileID: 1305469764, guid: 02fa0dbf13b1d904980de7dba67d68db, type: 3}
-  - {fileID: 1660475210, guid: 02fa0dbf13b1d904980de7dba67d68db, type: 3}
   m_PackedSpriteNamesToIndex:
   - Woodcutter_walk_4
   - Woodcutter_walk_5
@@ -144,6 +144,12 @@ SpriteAtlas:
   - Woodcutter_climb_1
   - Woodcutter_climb_4
   - Woodcutter_climb_5
+  - Woodcutter_death_3
+  - Woodcutter_death_2
+  - Woodcutter_death_1
+  - Woodcutter_death_0
+  - Woodcutter_death_5
+  - Woodcutter_death_4
   - Woodcutter_hurt_2
   - Woodcutter_hurt_0
   - Woodcutter_hurt_1
@@ -181,12 +187,6 @@ SpriteAtlas:
   - Woodcutter_attack2_0
   - Woodcutter_attack2_5
   - Woodcutter_attack2_4
-  - Woodcutter_death_3
-  - Woodcutter_death_2
-  - Woodcutter_death_1
-  - Woodcutter_death_0
-  - Woodcutter_death_5
-  - Woodcutter_death_4
   m_RenderDataMap: {}
   m_Tag: 100-01-Woodcutter
   m_IsVariant: 0
