@@ -1,5 +1,13 @@
 # Unity Template 2D Platform Tile Pixel
 
+
+## In this project I implement
+- Player's movement, attack.
+- Enemy's patrol, attack.
+- Power up Effect.
+
+## Demo
+- https://drive.google.com/drive/folders/1GML2kKks4JO1oJ3Ac7KKsZ1FE6IIa0x_
 ## About the template
 
 * Platform game
@@ -8,11 +16,6 @@
 * Pixel art
 * Frame-based animation
 * Unity 2021.3.2f1
-
-## In this project I implement
-- Player's movement, attack.
-- Enemy's patrol, attack.
-- Power up Effect.
 
 ## Credits
 
