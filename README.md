@@ -9,6 +9,11 @@
 * Frame-based animation
 * Unity 2021.3.2f1
 
+## In this project I implement
+- Player's movement, attack.
+- Enemy's patrol, attack.
+- Power up Effect.
+
 ## Credits
 
 ### CraftPix Free Art
